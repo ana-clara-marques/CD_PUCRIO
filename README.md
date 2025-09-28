@@ -2,7 +2,7 @@
 MVP — Machine Learning & Analytics: Detecção de Chuva
 
 **Autora:** Ana Clara de Almeida Marques  
-**Matrícula:** 4052025001106 
+**Matrícula:** 4052025001106  
 **Data:** 28/09/2025
 
 ## Descrição
